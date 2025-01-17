@@ -133,5 +133,7 @@ This project is licensed under the MIT License.
 
 ## **Connect on LinkedIn**
 
-For more details or to collaborate on this project, feel free to connect on LinkedIn: 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveennarasimman/)
+
+For more details or to collaborate on this project.
+
