@@ -102,6 +102,17 @@ python rollback_firmware.py
 
 ---
 
+## **Versioning Pipeline Development**
+
+To ensure smooth integration and continuous version control for firmware updates, a versioning pipeline will be developed. This pipeline will automate the following:
+
+1. **Automate the Uploading and Versioning Process**: Every new firmware release will be automatically uploaded to S3, creating a new version and tagging it with relevant metadata.
+2. **Monitor Firmware Changes**: The pipeline will track and log changes between firmware versions, including performance metrics and compatibility checks.
+3. **Continuous Rollback Capabilities**: In case of issues with newer firmware, the pipeline will enable seamless rollback to the previous working version.
+4. **Collaboration with Praveen**: For developing this versioning pipeline and integrating it with existing IoT device management systems, please connect with Praveen to align on requirements, system architecture, and deployment strategies.
+
+---
+
 ## **Further Improvements**
 - **Over-the-Air (OTA) Update Support**: Implement an OTA update mechanism to automatically push firmware updates to devices.
 - **Monitoring Tools**: Integrate with monitoring tools to track the performance of firmware updates and detect issues.
@@ -119,3 +130,8 @@ The **Firmware Update Version Management for IoT Devices with S3 Versioning** si
 This project is licensed under the MIT License.
 
 ---
+
+## **Connect on LinkedIn**
+
+For more details or to collaborate on this project, feel free to connect on LinkedIn: 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveennarasimman/)
